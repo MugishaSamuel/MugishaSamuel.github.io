@@ -96163,7 +96163,7 @@ l=B.e.cQ(q.x.a.a)
 o=q.c
 o.toString
 s=2
-return A.T(new A.acx(o,new A.at5(null).a_H(null),"8000",new A.a8X("Driving Guide UGANDA"),new A.a8W(n,l),!1,"FLWPUBK-da89286fa4207211149922734b030eef-X","mobilemoneyuganda","https://google.com","UGX").v8(),$async$yr)
+return A.T(new A.acx(o,new A.at5(null).a_H(null),"8000",new A.a8X("Driving Guide UGANDA"),new A.a8W(n,l),!1,"FLWPUBK-ea41ea0891d251d704c32ac2b26fa43c-X","mobilemoneyuganda","https://google.com","UGX").v8(),$async$yr)
 case 2:if(b.a==="successful"){l=t.N
 l=A.aRY(A.am(["codes",m,"status","available","email",n,"platform","mobilemoney"],l,l))
 l.toString
