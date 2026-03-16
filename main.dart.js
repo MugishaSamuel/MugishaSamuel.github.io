@@ -91782,7 +91782,7 @@ ak(){this.az()
 A.aHC(new A.azn(this))},
 B(a){var s=null,r=$.ke
 r.toString
-return new A.R(B.JQ,A.ai(A.a([A.r("Don\u2019t have an access token? \n\nMake a direct deposit on 0702715520\n(names of Mugisha Samuel).\n\nAfter, share a screenshot of your payment on \nWhatsApp to get your access code\n",s,s,s,A.h(s,s,B.b,s,s,s,s,s,s,s,s,0.034666666666666665*r,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.ag(A.dC(B.BB,A.aS8(),A.ed(s,s,B.dD,s,s,s,s,s,s,B.o,s,s,s,s,new A.bG(A.cs(10),B.z),s,s,s,s,s)),s,s)],t.p),B.l,B.p,B.m),s)}}
+return new A.R(B.JQ,A.ai(A.a([A.r("Don\u2019t have an access token? \n\nMake a direct deposit of 10,000 on 0748537131\n(names of Mugisha Samuel).\n\nAfter, share a screenshot of your payment on \nWhatsApp to get your access code\n",s,s,s,A.h(s,s,B.b,s,s,s,s,s,s,s,s,0.034666666666666665*r,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.ag(A.dC(B.BB,A.aS8(),A.ed(s,s,B.dD,s,s,s,s,s,s,B.o,s,s,s,s,new A.bG(A.cs(10),B.z),s,s,s,s,s)),s,s)],t.p),B.l,B.p,B.m),s)}}
 A.azn.prototype={
 $1(a){if(a===B.hf)this.a.gabj().aM(0)},
 $S:115}
